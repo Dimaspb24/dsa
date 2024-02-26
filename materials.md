@@ -24,3 +24,8 @@
 
 ## Книги
 ...
+
+## Другое
+1) Задачи по компаниям: https://docs.google.com/spreadsheets/d/14aVAyDsQmz50TxhldNV5lmsyvYOJrAT9gzi7sGfMu9k/edit#gid=0
+2) Список задач с отличным объяснением: https://docs.google.com/spreadsheets/d/1w5JqsXFfNTS7NUT7ujKrt8NvhJiw52S6jfvoo2X_fo8/edit#gid=0
+3) Хороший список с от русскоязычного автора: https://docs.google.com/spreadsheets/d/1dL-2ErGcCtjE_MgKPqJtDTX2OiA70O3n9gArdcK41h8/edit#gid=0
