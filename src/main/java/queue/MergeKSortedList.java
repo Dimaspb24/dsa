@@ -39,6 +39,12 @@ package queue;
  * -104 <= lists[i][j] <= 104
  * lists[i] is sorted in ascending order.
  * The sum of lists[i].length will not exceed 104.
+ *
+ *
+ * https://github.com/TheAlgorithms/Java/blob/master/src/main/java/com/thealgorithms/datastructures/lists/Merge_K_SortedLinkedlist.java
+ * https://github.com/gouthampradhan/leetcode/blob/master/src/main/java/linked_list/MergeKSortedLists.java
+ * https://github.com/sherxon/AlgoDS/blob/master/src/problems/medium/MergekSortedLists.java
+ * https://github.com/kdn251/interviews/blob/master/leetcode/linked-list/MergeKSortedLists.java
  */
 public class MergeKSortedList {
 
