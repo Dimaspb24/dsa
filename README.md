@@ -4,29 +4,19 @@ Data structure and algorithms
 ```plantuml
 @startmindmap
 
-caption Roadmap
-title Software Engineer Interview Plan
+title План подготовки к алгоритмической секции
 
-* Алгоритмические задачи
-** Leetcode
-* Поведенческое итервью
-** Об опыте, об случаях из опыта, о себе
-** Об интересах, мотивации
-* Системный дизайн
-* Секция по платформе или языку
-** Java
-** Spring
-
-header
-0.0.1
-endheader
+* План
+** 1. Курс Слёрм: "Алгоритмы: roadmap для работы и собеседований"
+** 2.0 Одна из книг по алгоритмам
+*** Грокаем Алгоритмы (выбрана)
+*** Алгоритмы на Java Сэджвик (доп для теории)
+*** Скиена (доп для практики)
+** 2.1 Курс educative grokking-coding-interview-patterns-java
+** 3.1 Задачи Leetcode из курса Слёрм
+** 3.2 Книга Карьера Программиста
 
 center footer @dimabogd
 
-legend right
-  Short
-  legend
-endlegend
 @endmindmap
 ```
-
